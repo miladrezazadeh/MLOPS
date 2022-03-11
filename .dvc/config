@@ -1,4 +1,8 @@
 [core]
-    remote = storage
+    remote = wafer
 ['remote "storage"']
+    url = gdrive://1sPBO7LCLNPbh8xtlM6LRTHk40j5ezYld
+['remote "myremote"']
+    url = \
+['remote "wafer"']
     url = gdrive://1sPBO7LCLNPbh8xtlM6LRTHk40j5ezYld
